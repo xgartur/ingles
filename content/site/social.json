@@ -1,0 +1,19 @@
+{
+    "social" : [
+        {
+            "name": "Facebook",
+            "link": "#",
+            "icon": "facebook-square"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://www.instagram.com/4rtur88/",
+            "icon": "instagram"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/4rtur8",
+            "icon": "github"
+        }
+    ]
+}
