@@ -1,13 +1,13 @@
 ---
-title: Troes retardat
+title: Present Simple
 tags: tag1, tag2
 category: Digital
-excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
+excerpt: Learn the simple present
+created: 2020-05-10
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
-author: author1, author2, author3
-featured: true
+author: arturo
+featured: false
 ---
 
 ## Ossa narrat sortita fecerat sit conataque
@@ -36,9 +36,9 @@ idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
 
 ## Et capienda Peneia
 
-*Haec moenia pater* signataque urget, ait quies laqueo sumitque. Misit sit
+_Haec moenia pater_ signataque urget, ait quies laqueo sumitque. Misit sit
 moribunda terrae sequar longis hoc, cingebant copia cultros! Alis templi taeda
-solet suum mihi penates quae. Cecidere *deo agger infantem* indetonsusque ipsum;
+solet suum mihi penates quae. Cecidere _deo agger infantem_ indetonsusque ipsum;
 ova formasque cornu et pectora [voce oculos](http://www.tibibene.io/iter.html),
 prodis pariterque sacra finibus, Sabinae. Fugarant fuerat, famam ait toto imas
 sorte pectora, est et, procubuit sua Appenninigenae habes postquam.
@@ -60,3 +60,4 @@ lacrimas. Tumidi fassusque hosti, deus [vixque desint
 dedit](http://hisnurus.com/putares-pars) dum et, quo non, dea [suras
 tantum](http://mactata.org/inducere.php). Unus acta capulo. In Dryope sic
 vestigia est neu ignis in **illa mirantur agilis** densior.
+

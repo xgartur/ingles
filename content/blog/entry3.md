@@ -1,12 +1,12 @@
 ---
-title: Iter vultus quidem pariter caligine inane hanc
-tags: tag3, tag4, tag5
-category: Business
-excerpt: Canache virago, metuendus illo est sibi inlaesos, ubi prior loca coniuge, illi pro. Vincere ferociaarva.
+title: Present continuous
+tags: Ingles, Practice, Learn
+category: Ingles
+excerpt: Learn and practice
 created: 2019-10-31
 image: ./images/sergio-souza-WU6K3Lmq9ok-unsplash.jpg
 image_caption: Photo by Sergio Souza on Unsplash
-author: author3
+author: arturo
 featured: true
 ---
 
@@ -54,3 +54,4 @@ cinctaeque, illa fuit. Nostra mihi tempore.
 Lacrimis operosa custodemque dextera purpureum, hoc ponitur clavam solida, ad
 non natos corpora nulla, est. Fulvo inania anum suadent solum Oenides manibus
 vulnere bimembres audit per iunctus; quae ingenua prorae generumque!
+

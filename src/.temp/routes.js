@@ -29,12 +29,28 @@ export default [
     component: c1
   },
   {
+    path: "/tags/practice/:page(\\d+)?/",
+    component: c1
+  },
+  {
+    path: "/tags/learn/:page(\\d+)?/",
+    component: c1
+  },
+  {
+    path: "/tags/ingles/:page(\\d+)?/",
+    component: c1
+  },
+  {
     path: "/author/troes-retardat/:page(\\d+)?/",
     component: c2
   },
   {
     path: "/author/john-doe/:page(\\d+)?/",
     component: c2
+  },
+  {
+    path: "/category/ingles/:page(\\d+)?/",
+    component: c3
   },
   {
     path: "/author/hans-wurst/:page(\\d+)?/",
@@ -45,11 +61,15 @@ export default [
     component: c3
   },
   {
-    path: "/category/business/:page(\\d+)?/",
-    component: c3
+    path: "/author/arturo-guerrero/:page(\\d+)?/",
+    component: c2
   },
   {
-    path: "/posts/troes-retardat/",
+    path: "/posts/present-continuous/",
+    component: c4
+  },
+  {
+    path: "/posts/present-simple/",
     component: c4
   },
   {
