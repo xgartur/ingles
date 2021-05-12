@@ -41,8 +41,16 @@ export default [
     component: c1
   },
   {
+    path: "/tags/inspiration/:page(\\d+)?/",
+    component: c1
+  },
+  {
     path: "/author/troes-retardat/:page(\\d+)?/",
     component: c2
+  },
+  {
+    path: "/category/personal/:page(\\d+)?/",
+    component: c3
   },
   {
     path: "/author/john-doe/:page(\\d+)?/",
@@ -74,6 +82,10 @@ export default [
   },
   {
     path: "/posts/iter-vultus-quidem-pariter-caligine-inane-hanc/",
+    component: c4
+  },
+  {
+    path: "/posts/mi-inicio/",
     component: c4
   },
   {
