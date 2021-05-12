@@ -3,7 +3,7 @@ title: Mi inicio
 tags: Inspiration
 category: Personal
 excerpt: Como empeze mi blog
-created: 2019-11-05
+created: 2021-11-05
 image: ./images/enrique-amaya-Q0rRRAcYORQ-unsplash.jpg
 image_caption: Photo by Enrique Amaya on Unsplash
 author: arturo
